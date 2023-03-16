@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "780514438687",
+    "project_id": "movaapp-d0b9b",
+    "storage_bucket": "movaapp-d0b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780514438687:android:6a558a54fd686f51956f2a",
+        "android_client_info": {
+          "package_name": "com.example.movies_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780514438687-6e7egdabs20gljetqti97sof36uls2ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvX51WPdWk6Rfu_q4uj8s08NnOwiNmtrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780514438687-6e7egdabs20gljetqti97sof36uls2ui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780514438687-j8ond0jt7mve4k9ko45l0b5dlm1852df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moviesAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
