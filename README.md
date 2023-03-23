@@ -7,7 +7,7 @@ Hi, do you like movies?
 
 #Flutter 3.7.3
 #dart 2.19.2
-
+<img src="assets/movafram.png" alt="Alt text" title="Optional title">
 # Features
 -Browse popular movies
 -Search for movies
